@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Mohamamed Mohidiin 
 - 👀 Loves to share Knowledge
-- 🌱 I’m currently learning Front End Devolopement
+- 🌱 I’m currently Mastering Front End Devolopement
 - 💞️ I’m looking to collaborate on Real Web Projects
 - a learner have a dream to become Full-Stack Web Devoloper
 
