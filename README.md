@@ -1,8 +1,6 @@
 - 👋 Hello, I’m Mohamamed Mohidiin 
 - Junior Web devoloper
 - 👀 Loves to share Knowledge
-- 🌱 I’m currently Mastering Front End Devolopement
-- 💞️ I’m looking to collaborate on Real Web Projects
 - Open Source Enthuasist
 
 <!---
