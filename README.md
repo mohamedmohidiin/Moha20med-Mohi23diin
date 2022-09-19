@@ -1,5 +1,4 @@
 - 👋 Hello, I’m Mohamamed Mohidiin 
-- Junior Web devoloper
 - 👀 Loves to share Knowledge
 - Open Source Enthuasist
 
